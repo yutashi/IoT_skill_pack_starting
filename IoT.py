@@ -15,4 +15,4 @@ def main():
 if __name__ == '__main__':
     while True:
         main()
-        sleep(5)
+        sleep(60)
